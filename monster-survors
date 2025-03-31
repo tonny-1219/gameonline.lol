@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Play Monster Survivors online for free! A thrilling survival game where you fight against endless waves of monsters. Can you survive?">
+    <meta name="keywords" content="Monster Survivors, online game, survival game, play free games">
+    <meta name="author" content="gameonline.lol">
+    <link rel="canonical" href="https://gameonline.lol/">
+    <title>Monster Survivors - Play Free Online Survival Game</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 text-gray-900">
+    <header class="bg-gray-900 text-white py-6 text-center">
+        <h1 class="text-4xl font-bold">Monster Survivors - Free Online Survival Game</h1>
+    </header>
+    
+    <main class="container mx-auto px-4 py-10">
+        <section class="text-center">
+            <h2 class="text-2xl font-semibold text-gray-800 mb-4">Survive the Monster Invasion</h2>
+            <p class="text-lg text-gray-700 max-w-2xl mx-auto">Fight against relentless waves of monsters in this thrilling survival game. Are you skilled enough to outlast the horrors?</p>
+        </section>
+        
+        <section class="mt-10 flex justify-center">
+            <iframe src="https://cloud.onlinegames.io/games/2025/unity/monster-survivors/index-og.html" class="w-full max-w-4xl h-[600px] border-2 border-gray-300 rounded-lg" allowfullscreen></iframe>
+        </section>
+        
+        <section class="mt-12">
+            <h2 class="text-2xl font-semibold text-gray-800 mb-4">Game Overview</h2>
+            <p class="text-lg text-gray-700">Monster Survivors is an intense survival game where you must fight against endless hordes of monsters. Use strategy, power-ups, and quick reflexes to stay alive. Play now and test your survival skills!</p>
+        </section>
+        
+        <section class="mt-8">
+            <h2 class="text-2xl font-semibold text-gray-800 mb-4">Why Play Monster Survivors?</h2>
+            <ul class="list-disc list-inside text-lg text-gray-700">
+                <li>Exciting real-time survival gameplay</li>
+                <li>Easy to play, hard to master mechanics</li>
+                <li>Completely free, no downloads required</li>
+                <li>Play on PC and mobile seamlessly</li>
+            </ul>
+        </section>
+    </main>
+    
+    <footer class="bg-gray-900 text-white text-center py-6 mt-12">
+        <p>&copy; 2025 gameonline.lol. All rights reserved.</p>
+    </footer>
+</body>
+</html>
